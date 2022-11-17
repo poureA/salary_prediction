@@ -1,2 +1,2 @@
 # salary_prediction
-downloaded from kaggle
+csv file downloaded from kaggle
